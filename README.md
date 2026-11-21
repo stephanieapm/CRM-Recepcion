@@ -1,4 +1,4 @@
-# Tareas de Recepción
+# Tareas de Representantes de Operaciones
 
 Herramienta para que el equipo de recepción de The Smile Mission organice y siga sus tareas diarias: tablero por persona, tablero del equipo agrupado por rol, panel con indicadores, plantillas de asignación por hora, catálogo de tareas con su paso a paso y automatizaciones.
 
